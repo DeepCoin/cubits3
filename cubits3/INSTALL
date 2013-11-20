@@ -1,0 +1,9 @@
+Building Cubits
+
+See doc/readme-qt.rst for instructions on building Cubits QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cubits.
+
+See doc/build-*.txt for instructions on building Cubitsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cubits.
